@@ -9,6 +9,7 @@
   "author": "Brook072",
   "license": "ISC",
   "dependencies": {
+    "json-server": "^0.17.1",
     "cors": "^2.8.5",
     "json-server-auth": "^2.1.0",
     "node": "^18.12.1"
