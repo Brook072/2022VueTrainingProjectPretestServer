@@ -1,0 +1,16 @@
+{
+  "name": "2022vuetrainingprojectpretestserver",
+  "version": "1.0.0",
+  "description": "json-server for the pretest of vue training project",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Brook072",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "json-server-auth": "^2.1.0",
+    "node": "^19.3.0"
+  }
+}
